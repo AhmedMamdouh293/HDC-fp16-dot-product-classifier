@@ -15,21 +15,21 @@ The testbench supports multi-class classification and automated pass/fail result
 project_root/  
 │  
 ├──top/  
-|   └──hdc_test_data/           # Memory input files for simulation
-|   |  └── sample.mem           # Input sample hypervectors (hex)
-|   |  └── label.mem            # Ground truth class labels (decimal)
-|   |  └── class_weights.mem    # Class weights (16-bit hex per line)
-|   |
-|   └──obj_dir/                 # Verilator build output (generated automatically)
-|   |  └── Vtop.*               # Generated Verilated model of your top module  
-|   |              
-|   ├── top.sv                  # Top-level module
-|   ├── sim_main.cpp            # Main C++ testbench logic 
-|   ├── testbench.h             # Generic Verilator testbench helper
-|   └── top.debug               # Output file
-|
-|── hdc.ipynb                   # python code of the HDC model used to generate the test data.       
-└── README.md                   # (This file)    
+|   └──hdc_test_data/           # Memory input files for simulation  
+|   |  └── sample.mem           # Input sample hypervectors (hex)  
+|   |  └── label.mem            # Ground truth class labels (decimal)  
+|   |  └── class_weights.mem    # Class weights (16-bit hex per line)  
+|   |  
+|   └──obj_dir/                 # Verilator build output (generated automatically)  
+|   |  └── Vtop.*               # Generated Verilated model of your top module    
+|   |                
+|   ├── top.sv                  # Top-level module  
+|   ├── sim_main.cpp            # Main C++ testbench logic   
+|   ├── testbench.h             # Generic Verilator testbench helper  
+|   └── top.debug               # Output file  
+|   
+|── hdc.ipynb                   # python code of the HDC model used to generate the test data.          
+└── README.md                   # (This file)       
 
 # To build the Verilated model
 run:
