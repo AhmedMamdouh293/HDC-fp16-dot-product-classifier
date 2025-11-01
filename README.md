@@ -12,9 +12,9 @@ The testbench supports multi-class classification and automated pass/fail result
 
 
 # Directory
-project_root/
-│
-├──top/
+project_root/  
+│  
+├──top/  
 |   └──hdc_test_data/           # Memory input files for simulation
 |   |  └── sample.mem           # Input sample hypervectors (hex)
 |   |  └── label.mem            # Ground truth class labels (decimal)
