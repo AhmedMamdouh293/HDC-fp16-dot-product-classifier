@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.9990741"
-     inkscape:cx="413.19129"
-     inkscape:cy="272.12598"
+     inkscape:zoom="15.992593"
+     inkscape:cx="684.12923"
+     inkscape:cy="296.19963"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="2552"
@@ -354,7 +354,7 @@
          stroke-miterlimit="8"
          fill="none"
          id="rect27"
-         style="stroke:#170000;stroke-opacity:1" />
+         style="stroke:#000000;stroke-opacity:1" />
       <text
          font-family="Arial, Arial_MSFontService, sans-serif"
          font-weight="400"
