@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="202.36215mm"
+   height="97.851738mm"
+   viewBox="0 0 202.36215 97.851738"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="block_diagram.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9990741"
+     inkscape:cx="413.19129"
+     inkscape:cy="272.12598"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g43" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1914202,-89.164583)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-34.262746,49.2125)"
+       id="g43">
+      <path
+         d="M 0.666667,-1.49277e-6 0.666757,40.2202 H -0.666577 L -0.666667,1.49277e-6 Z M 4.00009,38.8868 l -3.999985013,8 -4.000014987,-8 z"
+         transform="matrix(1,0,0,-1,778.5,470.387)"
+         id="path1" />
+      <path
+         d="m 572,228 v 24.01 h -2 V 228 Z m 3,22.677 -4,8 -4,-8 z"
+         id="path2" />
+      <path
+         d="m 318,228 v 24.01 h -2 V 228 Z m 3,22.677 -4,8 -4,-8 z"
+         id="path3" />
+      <rect
+         x="677"
+         y="168"
+         width="88"
+         height="123"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect3" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(700.201,226)"
+         id="text3">ME</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(727.201,226)"
+         id="text4">M</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(696.701,247)"
+         id="text5">BANK</text>
+      <path
+         d="m 259,157 c 0,-2.761 2.239,-5 5,-5 h 272 c 2.761,0 5,2.239 5,5 v 20 c 0,2.761 -2.239,5 -5,5 H 264 c -2.761,0 -5,-2.239 -5,-5 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path5" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(343.456,174)"
+         id="text6">Input HV [0:D]</text>
+      <path
+         d="m 301,318 16.75,19 h 33.5 L 368,318 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path6" />
+      <path
+         d="m 317,293 v 18.333 h -2 V 293 Z m 3,17 -4,8 -4,-8 z"
+         id="path7" />
+      <path
+         d="m 334,337 v 18"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path8" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="rotate(90,13.0415,335.0415)"
+         id="text8">0</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="rotate(90,-4.595,317.405)"
+         id="text9">1</text>
+      <path
+         d="M 0,-0.666667 H 147.124 L 147.089,34.0221 145.755,34.0207 145.79,-6.87899e-4 146.457,0.666667 H 0 Z m 150.456,33.460567 -4.209,7.8919 -3.788,-8.1026 z"
+         transform="matrix(0,1,1,0,269.5,182.5)"
+         id="path9" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(265.05,179)"
+         id="text10">0</text>
+      <rect
+         x="290.5"
+         y="258.5"
+         width="52"
+         height="35"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#ffffff"
+         id="rect10"
+         style="fill:none" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(304.155,273)"
+         id="text11">Sign</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(306.489,287)"
+         id="text12">Flip</text>
+      <path
+         d="m 556,319 16.5,19 h 33 L 622,319 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path12" />
+      <path
+         d="m 572,293 v 18.333 h -2 V 293 Z m 3,17 -4,8 -4,-8 z"
+         id="path13" />
+      <path
+         d="m 589,338 v 17"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path14" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="rotate(90,140.4235,462.4235)"
+         id="text14">0</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="rotate(90,122.778,444.778)"
+         id="text15">1</text>
+      <rect
+         x="545.5"
+         y="258.5"
+         width="52"
+         height="35"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#ffffff"
+         id="rect15"
+         style="fill:none" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(558.901,273)"
+         id="text16">Sign</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(561.234,287)"
+         id="text17">Flip</text>
+      <path
+         d="M 0,-0.666667 H 147.124 L 147.089,34.0221 145.755,34.0207 145.79,-6.87899e-4 146.457,0.666667 H 0 Z m 150.456,33.460567 -4.209,7.8919 -3.788,-8.1026 z"
+         transform="matrix(0,1,1,0,523.5,183.5)"
+         id="path17" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="12px"
+         transform="translate(519.949,180)"
+         id="text18">D</text>
+      <path
+         d="M 0,2.5 C 0,1.11929 1.11929,0 2.5,0 3.88071,0 5,1.11929 5,2.5 5,3.88071 3.88071,5 2.5,5 1.11929,5 0,3.88071 0,2.5 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,417,328)"
+         id="path18" />
+      <path
+         d="M 0,2.5 C 0,1.11929 1.11929,0 2.5,0 3.88071,0 5,1.11929 5,2.5 5,3.88071 3.88071,5 2.5,5 1.11929,5 0,3.88071 0,2.5 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,436,328)"
+         id="path19" />
+      <path
+         d="M 0,2.5 C 0,1.11929 1.11929,0 2.5,0 3.88071,0 5,1.11929 5,2.5 5,3.88071 3.88071,5 2.5,5 1.11929,5 0,3.88071 0,2.5 Z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,455,328)"
+         id="path20" />
+      <path
+         d="M 677.669,230.5 H 497.084 v 0 H 316.5"
+         stroke="#000000"
+         stroke-width="3"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path21" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(570.102,220)"
+         id="text21">Class HV</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="10px"
+         transform="translate(631.435,223)"
+         id="text22">[0:D]</text>
+      <path
+         d="m 0,-1 h 3.50024 v 36.0486 l -1,-1 H 70.3339 v 2 H 1.50024 V 0 l 1,1 H 0 Z m 69.0005,32.0486 8,4 -8,4 z"
+         transform="matrix(0,1,1,0,317,241)"
+         id="path22" />
+      <path
+         d="m 0,-1 h 3.08891 v 36.0486 l -1,-1 H 71.5104 v 2 H 1.08891 V 0 l 1,1 H 0 Z m 70.177,32.0486 8,4 -8,4 z"
+         transform="matrix(0,1,1,0,571,241)"
+         id="path23" />
+      <rect
+         x="309"
+         y="355"
+         width="309"
+         height="25"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         id="rect23" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(405.586,375)"
+         id="text23">FP Adder Tree</text>
+      <path
+         d="m 464.167,380.494 0.214,23.844 -1.333,0.012 -0.215,-23.844 z m 3.535,22.48 -3.928,8.036 -4.071,-7.964 z"
+         id="path24" />
+      <rect
+         x="430.5"
+         y="470.5"
+         width="68"
+         height="42"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect24" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(444.204,498)"
+         id="text24">MAX</text>
+      <rect
+         x="692"
+         y="357"
+         width="206"
+         height="163"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-miterlimit="8"
+         stroke-dasharray="6.66667, 5"
+         fill="none"
+         id="rect25" />
+      <rect
+         x="751.5"
+         y="470.5"
+         width="54"
+         height="25"
+         stroke="#172c51"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect26"
+         style="stroke:#000000;stroke-opacity:1" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(761.42,488)"
+         id="text26">CMP</text>
+      <rect
+         x="806.5"
+         y="393.5"
+         width="54"
+         height="60"
+         stroke="#172c51"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect27"
+         style="stroke:#170000;stroke-opacity:1" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="15px"
+         transform="translate(816.828,428)"
+         id="text27">REG</text>
+      <path
+         d="m 785.5,401.833 h 14.043 v 1.334 H 785.5 Z m 12.71,-3.333 8,4 -8,4 z"
+         id="path27" />
+      <path
+         d="m 860.5,402.5 h 11.459"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path28" />
+      <path
+         d="M 0,0 1.04987e-4,34.6712"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,871.5,403.171)"
+         id="path29" />
+      <path
+         d="M 757.5,368.5 H 871.238"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path30" />
+      <path
+         d="M 0,-0.666667 H 22.5621 L 22.5424,6.34053 21.209,6.33678 21.2269,-0.00187523 21.8935,0.666667 H 0 Z M 25.8932,5.05893 21.7866,13.0047 17.8939,4.95195 Z"
+         transform="matrix(0,1,1,0,757.5,367.5)"
+         id="path31" />
+      <path
+         d="m 770.5,428.5 15,-12.5 v -25 l -15,-12.5 z"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path32" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(773.896,395)"
+         id="text32">0</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="11px"
+         transform="translate(773.871,417)"
+         id="text33">1</text>
+      <path
+         d="m 872.118,402.5 v 81.21 h -59.951 v -1.333 h 59.284 l -0.667,0.667 V 402.5 Z m -58.618,84.544 -8,-4 8,-4 z"
+         id="path33" />
+      <path
+         d="m 677.5,481.833 h 66.762 v 1.334 H 677.5 Z m 65.429,-3.333 8,4 -8,4 z"
+         id="path34" />
+      <path
+         d="M 723.833,482.572 V 415.12 l 40.521,-0.049 10e-4,1.334 -39.854,0.047 0.666,-0.666 v 66.786 z m 39.046,-70.784 8.138,3.712 -7.852,4.283 z"
+         id="path35" />
+      <path
+         d="m 867,401.5 c 0,-1.933 1.567,-3.5 3.5,-3.5 1.933,0 3.5,1.567 3.5,3.5 0,1.933 -1.567,3.5 -3.5,3.5 -1.933,0 -3.5,-1.567 -3.5,-3.5 z"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill-rule="evenodd"
+         id="path36" />
+      <path
+         d="m 806.5,438.5 9,5.044 -9,4.956"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="none"
+         fill-rule="evenodd"
+         id="path37" />
+      <path
+         d="M 0,0 193.645,112.291"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-miterlimit="8"
+         stroke-dasharray="6.66667, 5"
+         fill="none"
+         fill-rule="evenodd"
+         transform="matrix(1,0,0,-1,499,470.291)"
+         id="path38" />
+      <path
+         d="m 498,512 194.637,8.013"
+         stroke="#000000"
+         stroke-width="1.66667"
+         stroke-miterlimit="8"
+         stroke-dasharray="6.66667, 5"
+         fill="none"
+         fill-rule="evenodd"
+         id="path39" />
+      <rect
+         x="402.5"
+         y="411.5"
+         width="122"
+         height="30"
+         stroke="#000000"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect39" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(416.285,433)"
+         id="text39">Accumulate</text>
+      <path
+         d="m 464.167,441.494 0.214,23.844 -1.333,0.012 -0.215,-23.844 z m 3.535,22.48 -3.928,8.036 -4.071,-7.964 z"
+         id="path40" />
+      <rect
+         x="135"
+         y="152"
+         width="70"
+         height="73"
+         stroke="#000000"
+         stroke-width="2"
+         stroke-miterlimit="8"
+         fill="none"
+         id="rect40" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="18px"
+         transform="translate(150.853,196)"
+         id="text40">FSM</text>
+      <path
+         d="M 0,-0.666667 H 143.345 V 132.693 h -1.333 V 0 l 0.667,0.666667 H 0 Z M 146.679,131.36 l -4,8 -4,-8 z"
+         transform="matrix(0,1,1,0,170.5,225.5)"
+         id="path41" />
+      <path
+         d="M 0,-0.666667 H 201.776 V 225.932 h -1.333 V 0 l 0.666,0.666667 H 0 Z M 205.109,224.599 l -4,8 -4,-8 z"
+         transform="matrix(0,1,1,0,170.5,225.5)"
+         id="path42" />
+      <path
+         d="M 0,-0.666667 H 266.807 V 253.321 h -1.333 V 0 l 0.667,0.666667 H 0 Z M 270.141,251.988 l -4,8 -4,-8 z"
+         transform="matrix(0,1,1,0,170.5,225.5)"
+         id="path43" />
+    </g>
+  </g>
+</svg>
