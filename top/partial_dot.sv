@@ -122,7 +122,7 @@ module partial_dot #(
     integer cent_idx;    // 0..GROUPS-1
 
     // pipeline / handshake counters
-    logic data_ready; // asserted when inputs are stable and we can process
+    // logic data_ready; // asserted when inputs are stable and we can process
     logic [1:0] wait_cnt;
 
 
